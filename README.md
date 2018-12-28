@@ -1,5 +1,5 @@
-# WebApp_Assignment
-Interview Assignment
+# Web App
+Web App to be used potentially for the future
 
 -Web App developed using Python with Flask framework
 
